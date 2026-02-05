@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/eugeniodepalo/react-native-gtk4",
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "react-reconciler": "0.29.2",
     "remeda": "2.11.0"
   },
@@ -48,7 +48,7 @@
     "@react-native-gtk4/codegen": "workspace:*",
     "@ts-for-gir/cli": "workspace:*",
     "@types/jest": "29.5.12",
-    "@types/lodash": "4.17.7",
+    "@types/lodash": "4.17.23",
     "@types/node": "22.5.0",
     "@types/react": "19.2.12",
     "@types/react-reconciler": "0.28.8",
