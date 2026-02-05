@@ -46,7 +46,7 @@
         "fast-xml-parser": "4.4.1",
         "prettier": "3.8.1",
         "rimraf": "6.0.1",
-        "typescript": "5.5.4"
+        "typescript": "5.9.3"
     },
     "dependencies": {
         "@ts-for-gir/generator-base": "workspace:*",
